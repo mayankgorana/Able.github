@@ -467,7 +467,7 @@ a#link2020:hover{
 
 /* footer link */
 .footer-link{
-    padding:2% 20% ;
+    padding:2% 25% ;
    background-color:#EAEAEA;
    }
 
@@ -479,7 +479,7 @@ a#link2020:hover{
 #copyright{
     font-size: 10px;
     margin: 2%;
-    padding-left: 7%;
+    padding-left: 5%;
     color: gray;
 }
 
